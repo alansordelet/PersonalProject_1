@@ -1,0 +1,31 @@
+single menu ../Ressources/Textures/Menu.png
+single Continuer ../Ressources/Textures/Menu/Menu/Continuer.png
+single MenuOption ../Ressources/Textures/Menu/Menu/MenuOption.png
+single Jouer ../Ressources/Textures/Menu/Menu/Jouer.png
+single FxEnSurbrillance ../Ressources/Textures/Menu/Menu/FxEnSurbrillance.png
+single Fx ../Ressources/Textures/Menu/Menu/Fx.png
+single MusiqueEnSurbrillance ../Ressources/Textures/Menu/Menu/MusiqueEnSurbrillance.png
+single Musique ../Ressources/Textures/Menu/Menu/Musique.png
+single Option ../Ressources/Textures/Menu/Menu/Option.png
+single PleinEcranSelectionner ../Ressources/Textures/Menu/Menu/PleinEcranSelectionner.png
+single PleinEcran ../Ressources/Textures/Menu/Menu/PleinEcran.png
+single PleinEcranEnSurbrillanceEtSelectionner ../Ressources/Textures/Menu/Menu/PleinEcranEnSurbrillanceEtSelectionner.png
+single PleinEcranEnSurbrillance ../Ressources/Textures/Menu/Menu/PleinEcranEnSurbrillance.png
+single RetourMenu ../Ressources/Textures/Menu/Menu/RetourMenu.png
+single RetourMenuEnSurbrillance ../Ressources/Textures/Menu/Menu/RetourMenuEnSurbrillance.png
+single Sauvegarder ../Ressources/Textures/Menu/Menu/Sauvegarder.png
+single SauvegarderEnSurbrillance ../Ressources/Textures/Menu/Menu/SauvegarderEnSurbrillance.png
+single VsyncSelectionner ../Ressources/Textures/Menu/Menu/VsyncSelectionner.png
+single Vsync ../Ressources/Textures/Menu/Menu/Vsync.png
+single VsyncSelectionnerEtEnSurbrillance ../Ressources/Textures/Menu/Menu/VsyncSelectionnerEtEnSurbrillance.png
+single VsyncEnSurbrillance ../Ressources/Textures/Menu/Menu/VsyncEnSurbrillance.png
+single GrimoireInGame ../Ressources/Textures/Menu/MenuInGame/Grimoire.png
+single GrimoireSurbrillanceInGame ../Ressources/Textures/Menu/MenuInGame/GrimoireEnSurbrillance.png
+single GrimoireOuvertInGame ../Ressources/Textures/Menu/MenuInGame/GrimoireOuvert.png
+single GrimoireOuvertSurbrillanceInGame ../Ressources/Textures/Menu/MenuInGame/GrimoireOuvertEnSurbrillance.png
+
+single Rose ../Ressources/Textures/Colors/Rose.jpg
+single Bleu ../Ressources/Textures/Colors/Bleu.jpg
+single Vert ../Ressources/Textures/Colors/Vert.jpg
+single Orange ../Ressources/Textures/Colors/Orange.jpg
+single Vide
